@@ -1,1 +1,3 @@
 # SyncX
+SyncX is a cloud app.
+SyncX is still developing...
